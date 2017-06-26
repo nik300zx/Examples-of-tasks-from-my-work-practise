@@ -1,2 +1,1 @@
-# Examples-of-tasks-from-my-work-practise
-Examples of tasks from my work practise
+В этом репозитории показаны примерные типы задач, которые мне давали решать на работе в СЕО компании, в которой я проходил практику.
